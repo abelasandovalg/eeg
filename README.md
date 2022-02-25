@@ -18,8 +18,8 @@ To prepare the data for the final visualization, the following changes were impl
 - Create cluster classification column
 
 ## File Descriptions
-`eeg-alpha.ipynb`: Notebook containing the first implementation of data visualization <br>
-`eeg-final.ipynb`: Notebook containing data cleaning, clustering, and visualizations <br>
+`eeg-alpha.ipynb`: Notebook containing the first implementation of data cleaning, clustering, and visualization <br>
+`eeg-final.ipynb`: Notebook containing data cleaning, clustering, and final visualizations <br>
 `eeg-presentation.pdf`: Contains final visualization process + presentation <br>
 `eeg-viz.html`: Contains dashboard for the final visualization 
 
