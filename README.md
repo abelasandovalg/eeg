@@ -1,7 +1,7 @@
 # Electroencephalograph (EEG) Visualization
 
 ## Project Motivation 
-This project was part of the required coursework for The University of Texas at Austin's Elements of Data Visualization course. The goal of this project is to analyze and visualize data related to our respective major, that being neuroscience in my case. 
+One of my favorite aspects of data analysis is its applicability to mostly any topic. Unfortunately, none of the neuroscience classes I took in undergrad allowed me to apply my knowledge of the subject into a project. Therefore, my motivation for this project was to create a data visualization of EEG data that would be of use to someone in the field. 
 
 ## Code
 **Language**: Python, HTML, CSS <br>
